@@ -1,0 +1,14 @@
+{
+  "name": "restc-demo",
+  "version": "1.0.0",
+  "description": "An example to demostrate how to use restc in koa 1.x.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "summer",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-static": "^2.0.0",
+    "restc": "0.0.4"
+  }
+}
